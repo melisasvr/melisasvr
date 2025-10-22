@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisasvr&label=Profile%20views&color=0e75b6&style=flat" alt="melisasvr" /> </p>
 
-- 🔭 I’m currently working on **Swarm Robotics for Cooperative Tasks**
+- 🔭 I’m currently working on **Brain-Computer Interface (BCI) Robots**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and AI Engineering.**
 
