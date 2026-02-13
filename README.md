@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisasvr&label=Profile%20views&color=0e75b6&style=flat" alt="melisasvr" /> </p>
 
-- 🔭 I’m currently working on **Space Weather Forecasting**
+- 🔭 I’m currently working on **Ligther Onboard AI Demo with 3D Globe Viz**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and AI Engineering.**
 
