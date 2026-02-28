@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisasvr&label=Profile%20views&color=0e75b6&style=flat" alt="melisasvr" /> </p>
 
-- 🔭 I’m currently working on **Open source contribution with documented write-up**
+- 🔭 I’m currently working on **Quantum-Inspired Magnetic Anomaly Detection Simulator**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and AI Engineering.**
 
