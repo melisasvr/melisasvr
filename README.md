@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melisa Sever</h1>
-<h3 align="center">A Passionate Software Engineer and Generative AI Enthusiast from the USA</h3>
+<h3 align="center">A Passionate AI Engineer and Backend Engineer from the USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melisasvr&label=Profile%20views&color=0e75b6&style=flat" alt="melisasvr" /> </p>
 
