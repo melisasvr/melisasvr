@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=melisasvr&label=Profile%20views&color=0e75b6&style=flat" alt="melisasvr" /> 
 </p>
 
-- 🔭 I’m currently working on **Quantum Gravity Anomaly Detector for Earth Observation**
+- 🔭 I’m currently working on **Quantum Illumination Radar Anomaly Detector**
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and AI Engineering.**
 - 👯 I’m looking to collaborate on **any project that needs any improvements.**
 - 🤝 I’m looking for help with **always open to suggestions for improving any project.**
