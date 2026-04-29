@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Habit Cost-Financial Habit Tracking Platform**
+- 🔭 I’m currently building a **2026_F1_Predictions**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🤖 Multi-Agent Debate Simulator
-An active project focusing on simulating complex debates using multiple AI agents to test reasoning, logic, and decision-making capabilities. 
-* **Focus:** AI Engineering, Prompt Engineering, Backend Architecture.
-* *(Feel free to add a link to the repo here!)*
+#### 🤖 HabitCost
+HabitCost is an open-source financial habit tracking platform that helps you understand the true annual cost in both money and time of your everyday routines. 
+* **Focus:** Web Development, Backend Architecture, Software Engineering
+* *Link:* https://github.com/melisasvr/HabitCost 
 
 ---
 
