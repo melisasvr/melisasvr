@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **GraphRAG Pipeline**
+- 🔭 I’m currently building a **Real-Time Monocular Depth Visualizer and 3D Point Cloud Explorer**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🤖 HabitCost
-HabitCost is an open-source financial habit tracking platform that helps you understand the true annual cost in both money and time of your everyday routines. 
-* **Focus:** Web Development, Backend Architecture, Software Engineering
-* *Link:* https://github.com/melisasvr/HabitCost 
+#### 🚀 Real-Time 3D Human Pose Mirror & Motion Analyzer
+- Real Time 3D captures your body movements through a webcam, estimates 33 full-body 3D keypoints using MediaPipe Pose, and renders a live-mirrored 3D skeleton in Three.js, all while a Python engine (running in-browser via Pyodide) computes joint angles, applies signal filtering, analyses your posture, and tracks motion dynamics in real time.
+* **Focus:** Computer Vision, Web Assembly, Machine Learning
+* *Link:* https://github.com/melisasvr/Real-Time-3D-Human-Pose-Mirror-Motion-Analyzer
 
 ---
 
