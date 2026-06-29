@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **2026_F1_Predictions**
+- 🔭 I’m currently building a **Orbital Debris Tracking and Active Removal Simulator**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 Real-Time 3D Human Pose Mirror & Motion Analyzer
-- Real Time 3D captures your body movements through a webcam, estimates 33 full-body 3D keypoints using MediaPipe Pose, and renders a live-mirrored 3D skeleton in Three.js, all while a Python engine (running in-browser via Pyodide) computes joint angles, applies signal filtering, analyses your posture, and tracks motion dynamics in real time.
-* **Focus:** Computer Vision, Web Assembly, Machine Learning
-* *Link:* https://github.com/melisasvr/Real-Time-3D-Human-Pose-Mirror-Motion-Analyzer
+#### 🚀 F1 Predictions 2026-Machine Learning Model
+- Predicting race outcomes for the 2026 Formula 1 World Championship using machine learning, FastF1 API data, and historical race results.
+* **Focus:** Python, FastF1 API data and Machine Learning
+* *Link:* https://github.com/melisasvr/2026_f1_predictions
 
 ---
 
