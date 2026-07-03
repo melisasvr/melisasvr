@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Orbital Debris Tracking and Active Removal Simulator**
+- 🔭 I’m currently building a **2026_F1_Predictions**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
