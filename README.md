@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **2026_F1_Predictions**
+- 🔭 I’m currently building a **Quantum Tensor Network Simulator**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 F1 Predictions 2026-Machine Learning Model
-- Predicting race outcomes for the 2026 Formula 1 World Championship using machine learning, FastF1 API data, and historical race results.
-* **Focus:** Python, FastF1 API data and Machine Learning
-* *Link:* https://github.com/melisasvr/2026_f1_predictions
+#### 🚀 Orbital Debris Tracking & Active Removal Simulator
+- A space situational awareness (SSA) and active debris removal (ADR) simulator. It generates a synthetic catalog of orbital debris across LEO/MEO/GEO, propagates orbits under realistic perturbations, screens for collision risk, and plans multi-target debris removal missions, all rendered into a single interactive HTML dashboard. 
+* **Focus:** Python, NumPy, SciPy, Astropy, Plotly, Matplotlib, Skyfield, Space
+* *Link:* https://github.com/melisasvr/Orbital-Debris-Tracking-and-Active-Removal-Simulator
 
 ---
 
