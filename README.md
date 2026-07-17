@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Autonomous Satellite Constellation Management & Collision Avoidance System**
+- 🔭 I’m currently building a **2026_F1 Predictions**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 Orbital Debris Tracking & Active Removal Simulator
-- A space situational awareness (SSA) and active debris removal (ADR) simulator. It generates a synthetic catalog of orbital debris across LEO/MEO/GEO, propagates orbits under realistic perturbations, screens for collision risk, and plans multi-target debris removal missions, all rendered into a single interactive HTML dashboard. 
-* **Focus:** Python, NumPy, SciPy, Astropy, Plotly, Matplotlib, Skyfield, Space
-* *Link:* https://github.com/melisasvr/Orbital-Debris-Tracking-and-Active-Removal-Simulator
+#### 🚀 Quantum Tensor Network Simulator
+- A high-performance Python toolkit for studying real-time many-body quantum dynamics in strongly correlated 1D spin systems, with an interactive browser-based dashboard for instant visualization.
+* **Focus:** Python, NumPy, SciPy, Matplotlib, H5py, Space
+* *Link:* https://github.com/melisasvr/Quantum-Tensor-Network-Simulator
 
 ---
 
