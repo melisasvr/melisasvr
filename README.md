@@ -84,14 +84,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/melisasvr">
-    <img src="https://github-readme-stats.vercel.app/api?username=melisasvr&show_icons=true&theme=radical" alt="Melisa's GitHub Stats" />
-  </a>
-  <a href="https://github.com/melisasvr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisasvr&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=melisasvr&theme=radical" alt="GitHub Streak" />
 </p>
