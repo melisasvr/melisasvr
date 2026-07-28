@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melisa Sever</h1>
+m<h1 align="center">Hi 👋, I'm Melisa Sever</h1>
 <h3 align="center">A Passionate AI & Backend Engineer from the USA 🇺🇸</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Agent Orchestration System**
+- 🔭 I’m currently building a **Multi-Tier Supply Chain Dependency & Risk Engine**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
