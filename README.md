@@ -1,4 +1,4 @@
-m<h1 align="center">Hi 👋, I'm Melisa Sever</h1>
+<h1 align="center">Hi 👋, I'm Melisa Sever</h1>
 <h3 align="center">A Passionate AI & Backend Engineer from the USA 🇺🇸</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ m<h1 align="center">Hi 👋, I'm Melisa Sever</h1>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Multi-Tier Supply Chain Dependency & Risk Engine**
+- 🔭 I’m currently building a **Financial Regulatory**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@ m<h1 align="center">Hi 👋, I'm Melisa Sever</h1>
 
 ### 🚀 Featured Project
 
-#### 🚀 Quantum Tensor Network Simulator
-- A high-performance Python toolkit for studying real-time many-body quantum dynamics in strongly correlated 1D spin systems, with an interactive browser-based dashboard for instant visualization.
-* **Focus:** Python, NumPy, SciPy, Matplotlib, H5py, Space
-* *Link:* https://github.com/melisasvr/Quantum-Tensor-Network-Simulator
+#### 🚀 Multi-Tier Supply Chain Dependency & Risk Engine
+- An ontology-backed Retrieval-Augmented Generation (RAG) system that models a multi-tier supply chain as a knowledge graph and answers questions relational databases struggle with, like "if this port shuts down, which final products in our catalog are affected, and what certified suppliers can we pivot to?"
+* **Focus:** Python, NetworkX, Groq, and Streamlit.
+* *Link:* https://github.com/melisasvr/Multi-Tier-Supply-Chain-Dependency-Risk-Engine
 
 ---
 
