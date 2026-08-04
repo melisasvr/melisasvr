@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Financial Regulatory**
+- 🔭 I’m currently building a **Vision-Guided Multi-Agent Engineering Assistant**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 Multi-Tier Supply Chain Dependency & Risk Engine
-- An ontology-backed Retrieval-Augmented Generation (RAG) system that models a multi-tier supply chain as a knowledge graph and answers questions relational databases struggle with, like "if this port shuts down, which final products in our catalog are affected, and what certified suppliers can we pivot to?"
-* **Focus:** Python, NetworkX, Groq, and Streamlit.
-* *Link:* https://github.com/melisasvr/Multi-Tier-Supply-Chain-Dependency-Risk-Engine
+#### 🚀 Corporate Compliance & UBO Network Graph
+- A tool for financial compliance analysts to investigate corporate ownership structures using plain English questions, instead of writing manual graph queries.
+* **Focus:** Python, NetworkX, Groq, Streamlit, LangChain, Matplotlib, and Pytest
+* *Link:* https://github.com/melisasvr/Corporate-Compliance-UBO-Network-Graph
 
 ---
 
