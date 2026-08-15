@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **LogicProbe**
+- 🔭 I’m currently building a **API Phantom-Shadow API Discovery & Risk Mapper**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 Corporate Compliance & UBO Network Graph
-- A tool for financial compliance analysts to investigate corporate ownership structures using plain English questions, instead of writing manual graph queries.
-* **Focus:** Python, NetworkX, Groq, Streamlit, LangChain, Matplotlib, and Pytest
-* *Link:* https://github.com/melisasvr/Corporate-Compliance-UBO-Network-Graph
+#### 🚀 Drug–Drug Interaction Risk Predictor with Explainable AI
+- An offline-capable, knowledge-graph-driven clinical decision support system that predicts multi-class drug–drug interaction (DDI) risks (Mild, Moderate, Severe), generates transparent natural language explanations via SHAP feature attributions and NetworkX graph traversal, and suggests safer therapeutic alternatives.
+* **Focus:** Python, Uvicorn, NetworkX, Streamlit, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib
+* *Link:* https://github.com/melisasvr/Drug-Drug-Interaction-Risk-Predictor-with-Explainable-AI 
 
 ---
 
@@ -84,5 +84,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=melisasvr&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melisasvr&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
