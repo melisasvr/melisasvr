@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **API Phantom-Shadow API Discovery & Risk Mapper**
+- 🔭 I’m currently building a **Rare Disease Differential Diagnosis Assistant from Lab Trends**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 Drug–Drug Interaction Risk Predictor with Explainable AI
-- An offline-capable, knowledge-graph-driven clinical decision support system that predicts multi-class drug–drug interaction (DDI) risks (Mild, Moderate, Severe), generates transparent natural language explanations via SHAP feature attributions and NetworkX graph traversal, and suggests safer therapeutic alternatives.
-* **Focus:** Python, Uvicorn, NetworkX, Streamlit, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib
-* *Link:* https://github.com/melisasvr/Drug-Drug-Interaction-Risk-Predictor-with-Explainable-AI 
+#### 🚀 API Phantom Lite-Shadow API Discovery & Risk Mapper
+- A lightweight, fully local security tool that compares what your API actually receives (from Nginx access logs) against what it claims to expose (from an OpenAPI/Swagger spec), surfacing shadow endpoints, dead documentation, and risky route patterns with a transparent, point-based risk score.
+* **Focus:** Python, Fast API, Uvicorn, SQLAlchemy, PyYAML
+* *Link:* https://github.com/melisasvr/API-Phantom-Lite-Shadow-API-Discovery-Risk-Mapper
 
 ---
 
