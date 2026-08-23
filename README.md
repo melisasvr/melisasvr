@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Rare Disease Differential Diagnosis Assistant from Lab Trends**
+- 🔭 I’m currently building a **On-Orbit Satellite Health Prognodtics & Remaining Useful Life Estimator**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
