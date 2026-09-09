@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **On-Orbit Satellite Health Prognodtics & Remaining Useful Life Estimator**
+- 🔭 I’m currently building a **End-to-End Simulation of BB84 Quantum Key Distribution with Noise**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 API Phantom Lite-Shadow API Discovery & Risk Mapper
-- A lightweight, fully local security tool that compares what your API actually receives (from Nginx access logs) against what it claims to expose (from an OpenAPI/Swagger spec), surfacing shadow endpoints, dead documentation, and risky route patterns with a transparent, point-based risk score.
-* **Focus:** Python, Fast API, Uvicorn, SQLAlchemy, PyYAML
-* *Link:* https://github.com/melisasvr/API-Phantom-Lite-Shadow-API-Discovery-Risk-Mapper
+#### 🚀 On-Orbit Satellite Health Prognostics & Remaining Useful Life (RUL) Estimator
+- An AI-driven predictive maintenance system for Earth-orbiting satellites. It ingests multi-sensor telemetry (battery voltage, temperature, reaction wheel torque/vibration, solar array current, thermal readings), estimates the Remaining Useful Life of each subsystem, and surfaces explainable health scores through an interactive dashboard.
+* **Focus:** Python, NumPy, Pandas, Scikit-learn, XGBoost, Streamlit
+* *Link:* https://github.com/melisasvr/On-Orbit-Satellite-Health-Prognostics-Remaining-Useful-Life-RUL-Estimator
 
 ---
 
