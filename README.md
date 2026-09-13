@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **End-to-End Simulation of BB84 Quantum Key Distribution with Noise**
+- 🔭 I’m currently building a **Interplanetary Communication Latency & Bandwidth Optimizer**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
