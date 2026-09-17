@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building a **Interplanetary Communication Latency & Bandwidth Optimizer**
+- 🔭 I’m currently building a **Lunar/Martian Dust Storm Prediction & Mitigation System**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 On-Orbit Satellite Health Prognostics & Remaining Useful Life (RUL) Estimator
-- An AI-driven predictive maintenance system for Earth-orbiting satellites. It ingests multi-sensor telemetry (battery voltage, temperature, reaction wheel torque/vibration, solar array current, thermal readings), estimates the Remaining Useful Life of each subsystem, and surfaces explainable health scores through an interactive dashboard.
-* **Focus:** Python, NumPy, Pandas, Scikit-learn, XGBoost, Streamlit
-* *Link:* https://github.com/melisasvr/On-Orbit-Satellite-Health-Prognostics-Remaining-Useful-Life-RUL-Estimator
+#### 🚀 Hybrid Quantum Generative Adversarial Network (QGAN)
+- A Python implementation of a hybrid quantum-classical Generative Adversarial Network (QGAN) designed for synthetic tabular data generation. Built using PennyLane and Autograd (NumPy), this framework embeds continuous latent noise into a Parameterized Quantum Circuit (PQC) generator while training against a classical discriminator to generate realistic low-dimensional distributions without deep learning framework overhead (such as PyTorch or TensorFlow).
+* **Focus:** Python, pennylane, matplotlib
+* *Link:* https://github.com/melisasvr/Hybrid-Quantum-Generative-Adversarial-Network/tree/main
 
 ---
 
