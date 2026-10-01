@@ -25,10 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 Hybrid Quantum Generative Adversarial Network (QGAN)
-- A Python implementation of a hybrid quantum-classical Generative Adversarial Network (QGAN) designed for synthetic tabular data generation. Built using PennyLane and Autograd (NumPy), this framework embeds continuous latent noise into a Parameterized Quantum Circuit (PQC) generator while training against a classical discriminator to generate realistic low-dimensional distributions without deep learning framework overhead (such as PyTorch or TensorFlow).
-* **Focus:** Python, pennylane, matplotlib
-* *Link:* https://github.com/melisasvr/Hybrid-Quantum-Generative-Adversarial-Network/tree/main
+#### 🚀 Multi-Agent Orchestrator
+- A supervisor-style multi-agent system: LangGraph orchestration, Groq (Llama 3.3 70B), SQLite checkpointed conversation memory, ChromaDB long-term semantic memory, human-in-the-loop approvals, and a Streamlit UI.
+* **Focus:** Python, LangGraph, LangChain, ChromaDB, Pydentic, Streamlit
+* *Link:* https://github.com/melisasvr/Multi-Agent-Orchestrator
 
 ---
 
