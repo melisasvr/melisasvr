@@ -81,8 +81,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melisasvr&theme=react-dark&v=1" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melisasvr&theme=react&show_icons=true" alt="Melisa's GitHub Stats" />
 </p>
