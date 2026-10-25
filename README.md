@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building an **2026_F1_Predictions**
+- 🔭 I’m currently building an **AI Bias Detection & Fairness Evaluation Platform**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
@@ -25,11 +25,10 @@
 
 ### 🚀 Featured Project
 
-#### 🚀 Multi-Agent Orchestrator
-- A supervisor-style multi-agent system: LangGraph orchestration, Groq (Llama 3.3 70B), SQLite checkpointed conversation memory, ChromaDB long-term semantic memory, human-in-the-loop approvals, and a Streamlit UI.
-* **Focus:** Python, LangGraph, LangChain, ChromaDB, Pydentic, Streamlit
-* *Link:* https://github.com/melisasvr/Multi-Agent-Orchestrator
-
+#### 🚀 CS Tutor Whiteboard
+- An interactive, AI-powered Computer Science tutor featuring a dynamic HTML5 whiteboard canvas and natural neural voice narration. It acts as a smart, slightly sarcastic senior CS student, explaining complex Data Structures, Algorithms, and Operating Systems concepts step by step.
+* **Focus:** Python, FastAPI, Uvicorn, Groq API, Httpx, HTML, CSS, JavaScript
+* *Link:* https://github.com/melisasvr/cstutor
 ---
 
 ### 🛠️ Languages and Tools
