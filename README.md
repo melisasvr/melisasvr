@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melisa Sever</h1>
-<h3 align="center">A Passionate AI & Backend Engineer from the USA 🇺🇸</h3>
+<h3 align="center">A Passionate AI & Backend Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=melisasvr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building an **Human-in-the-Loop Governance Dashboard**
+- 🔭 I’m currently building a **2026_F1_Predictions**
 - 🌱 I’m constantly learning and exploring **Artificial Intelligence, Machine Learning, and LLMs.**
 - 👯 I’m looking to collaborate on **innovative AI projects and backend architectures.**
 - 🤝 Always open to suggestions and feedback for improving any project.
