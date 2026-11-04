@@ -13,7 +13,7 @@
 AI engineer with experience building LLM applications, retrieval pipelines, and Python backend services. Developed offline document  
 Q&amp;A systems, AI tools for educators, and cloud services using FastAPI, LangChain, and GCP.
 
-🔭 &nbsp;I'm currently working on **2026_F1_Predictions**  
+🔭 &nbsp;I'm currently working on **AI-Voice Agent**  
 🌱 &nbsp;I'm currently learning **exploring Artificial Intelligence, Machine Learning, and LLMs.**  
 👯 &nbsp;I'm looking to collaborate on **innovative AI projects and backend architectures.**  
 ⚡ &nbsp;Fun fact: **I love bridging the gap between complex AI models and robust backend systems.**
