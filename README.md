@@ -13,10 +13,10 @@
 AI engineer with experience building LLM applications, retrieval pipelines, and Python backend services. Developed offline document  
 Q&A systems, AI tools for educators, and cloud services built with FastAPI, LangChain, and GCP.
 
-🔭 &nbsp;I'm currently working on **God's Eye View**  
-🌱 &nbsp;I'm currently learning **exploring Artificial Intelligence, Machine Learning, and LLMs.**  
-👯 &nbsp;I'm looking to collaborate on **innovative AI projects and backend architectures.**  
-⚡ &nbsp;Fun fact: **I love bridging the gap between complex AI models and robust backend systems.**
+🔭 &nbsp; I'm currently working on **Forecasting California's Electricity Demand During Heat Waves**  
+🌱 &nbsp; I'm currently learning **exploring Artificial Intelligence, Machine Learning, and LLMs.**  
+👯 &nbsp; I'm looking to collaborate on **innovative AI projects and backend architectures.**  
+⚡ &nbsp; Fun fact: **I love bridging the gap between complex AI models and robust backend systems.**
 
 ### 🛠️ Tech Stack
 
